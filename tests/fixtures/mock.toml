@@ -1,0 +1,7 @@
+# Points XarenCode at tests/mock_llama_server.py (run it with --port 18091 --demo).
+[server]
+manage = false
+port = 18091
+
+[agent]
+max_steps = 6
